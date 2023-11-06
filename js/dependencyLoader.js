@@ -4,7 +4,7 @@ const maxLoadTimesTrys = 4;
 //Main Libraries
 dependencyUrls.push("https://www.googletagmanager.com/gtag/js?id=UA-118283086-6", "https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js");
 //Ads Libraries
-//dependencyUrls.push("js/adsController.js", "js/cpmstar.js", "js/moneyController.js");
+dependencyUrls.push("js/adsController.js", "js/cpmstar.js", "js/moneyController.js");
 //Firebase/Google Libraries
 dependencyUrls.push("https://cdn.jsdelivr.net/gh/TheEpicCreator/sus@latest/js/googleAnalytics.js", "https://cdn.jsdelivr.net/gh/TheEpicCreator/sus@latest/js/Firebase/firebase-init.js", "https://cdn.jsdelivr.net/gh/TheEpicCreator/sus@latest/js/Firebase/firebase-login.js", "https://cdn.jsdelivr.net/gh/TheEpicCreator/sus@latest/js/Firebase/firebase-config.js", "https://cdn.jsdelivr.net/gh/TheEpicCreator/sus@latest/js/Firebase/firebase-firestore.js")
 //Game Libraries
