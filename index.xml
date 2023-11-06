@@ -73,7 +73,7 @@
       <!-- OneTrust Cookies Consent Notice end for 1v1.lol -->
   </head>
   <body>
-    <!-- ads div <div class="ads">
+    <div class="ads">
       <div class="ad-smallscreen">
         <div class="ad ad-rectangle-bottom">
         </div>
@@ -96,7 +96,7 @@
         </script>
         </div>
       </div>
-    </div> -->
+    </div>
   
     <div id="interAdsContainer" style="display: none;"></div>
     <canvas id="gameContainer"></canvas>
