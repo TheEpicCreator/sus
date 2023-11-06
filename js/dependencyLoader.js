@@ -66,7 +66,7 @@ function initFirebaseLibraries() {
 }
 
 function onUnityReady() {
-    checkAdBlock();
+    //checkAdBlock();
     sendConfig();
 }
 
