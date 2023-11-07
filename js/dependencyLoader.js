@@ -34,7 +34,7 @@ async function dynamicallyLoadScripts() {
     }
 
     isGameLoaded();
-    //initAds();
+    initAds();
     loadGame();
     initFirebaseLibraries();
     fixMacUserAgent();
